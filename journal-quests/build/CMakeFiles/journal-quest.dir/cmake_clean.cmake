@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/journal-quest.dir/link.d"
+  "CMakeFiles/journal-quest_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/journal-quest_autogen.dir/ParseCache.txt"
+  "journal-quest_autogen"
+  "CMakeFiles/journal-quest.dir/journal-quest_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/journal-quest.dir/journal-quest_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/journal-quest.dir/src/DatabaseManager.cpp.o"
+  "CMakeFiles/journal-quest.dir/src/DatabaseManager.cpp.o.d"
+  "CMakeFiles/journal-quest.dir/src/DetailsSidebar.cpp.o"
+  "CMakeFiles/journal-quest.dir/src/DetailsSidebar.cpp.o.d"
+  "CMakeFiles/journal-quest.dir/src/DocxHandler.cpp.o"
+  "CMakeFiles/journal-quest.dir/src/DocxHandler.cpp.o.d"
+  "CMakeFiles/journal-quest.dir/src/EntryListView.cpp.o"
+  "CMakeFiles/journal-quest.dir/src/EntryListView.cpp.o.d"
+  "CMakeFiles/journal-quest.dir/src/GardenWidget.cpp.o"
+  "CMakeFiles/journal-quest.dir/src/GardenWidget.cpp.o.d"
+  "CMakeFiles/journal-quest.dir/src/HomeScreen.cpp.o"
+  "CMakeFiles/journal-quest.dir/src/HomeScreen.cpp.o.d"
+  "CMakeFiles/journal-quest.dir/src/MainWindow.cpp.o"
+  "CMakeFiles/journal-quest.dir/src/MainWindow.cpp.o.d"
+  "CMakeFiles/journal-quest.dir/src/SettingsView.cpp.o"
+  "CMakeFiles/journal-quest.dir/src/SettingsView.cpp.o.d"
+  "CMakeFiles/journal-quest.dir/src/ThemeManager.cpp.o"
+  "CMakeFiles/journal-quest.dir/src/ThemeManager.cpp.o.d"
+  "CMakeFiles/journal-quest.dir/src/UtilitiesView.cpp.o"
+  "CMakeFiles/journal-quest.dir/src/UtilitiesView.cpp.o.d"
+  "CMakeFiles/journal-quest.dir/src/WritingWorkspace.cpp.o"
+  "CMakeFiles/journal-quest.dir/src/WritingWorkspace.cpp.o.d"
+  "CMakeFiles/journal-quest.dir/src/main.cpp.o"
+  "CMakeFiles/journal-quest.dir/src/main.cpp.o.d"
+  "journal-quest"
+  "journal-quest.pdb"
+  "journal-quest_autogen/mocs_compilation.cpp"
+  "journal-quest_autogen/timestamp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/journal-quest.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

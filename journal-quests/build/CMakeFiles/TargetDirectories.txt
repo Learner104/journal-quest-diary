@@ -1,0 +1,8 @@
+/home/learner/testforgemini/journal-quest/build/CMakeFiles/journal-quest.dir
+/home/learner/testforgemini/journal-quest/build/CMakeFiles/test-core.dir
+/home/learner/testforgemini/journal-quest/build/CMakeFiles/edit_cache.dir
+/home/learner/testforgemini/journal-quest/build/CMakeFiles/rebuild_cache.dir
+/home/learner/testforgemini/journal-quest/build/CMakeFiles/journal-quest_autogen_timestamp_deps.dir
+/home/learner/testforgemini/journal-quest/build/CMakeFiles/journal-quest_autogen.dir
+/home/learner/testforgemini/journal-quest/build/CMakeFiles/test-core_autogen_timestamp_deps.dir
+/home/learner/testforgemini/journal-quest/build/CMakeFiles/test-core_autogen.dir
